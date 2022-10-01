@@ -1,4 +1,4 @@
-package internal_model
+package model
 
 type ArticleTag struct {
 	*Model
