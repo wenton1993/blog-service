@@ -9,7 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// 路由
+// 空结构体，在这里仅用于调用方法
 type Tag struct{}
 
 func NewTag() Tag {
